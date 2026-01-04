@@ -1,0 +1,14 @@
+# OS/editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Data & outputs
+data/
+figures/
